@@ -596,12 +596,28 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 }
 
 #dificuldades .content .cards .card {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+
   border-radius: 1rem;
-  padding: 2rem;
   background: var(--gradient-blue);
 
   box-shadow:  8px 8px 16px #032e4d,
              -8px -8px 16px #03385e;
+}
+
+#dificuldades .content .cards .card .image img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 9/20;
+  object-fit: cover;
+
+  border-radius: 1rem 0 0 1rem;
+  border-right: 2px solid var(--principal-color);
+}
+
+#dificuldades .content .cards .card .text {
+  padding: 1rem;
 }
 
 #dificuldades .content .cards .card ion-icon {
@@ -981,6 +997,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
   section#benefits .wrapper h2 {
     font-size: var(--f30);
+    margin-bottom: 5rem;
   }
 
   section#benefits .wrapper .list p {
@@ -991,6 +1008,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    margin-bottom: 5rem;
   }
 
   section#benefits .wrapper .list p {
@@ -1029,7 +1047,11 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
   section#dificuldades .content .cards {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  section#dificuldades .content .cards .card .image img {
+    aspect-ratio: 10/8;
   }
 
   section#dificuldades .content header,
@@ -1044,6 +1066,11 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
   section#dificuldades .content header h2,
   section#dificuldades .content .footer h2 {
     font-size: var(--f30);
+    margin-bottom: 3rem;
+  }
+
+  section#dificuldades .content header h2 {
+    margin-bottom: 5rem;
   }
 
   section#dificuldades .content a button {
@@ -1063,6 +1090,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
   section#depoimentos .wrapper h2 {
     font-size: var(--f30);
+    margin-bottom: 5rem;
   }
 
   section#depoimentos .wrapper {
