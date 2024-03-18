@@ -151,8 +151,8 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
 #home .content .text a button {
   font-size: var(--f16);
-  background: var(--gradient-button);
-  box-shadow: 0px 0px 15px 4px #004a7e;
+  background: var(--gradient-green);
+  box-shadow: 0px 0px 15px 4px #007e15;
   padding: 1rem 2rem;
   border: none;
   border-radius: .7rem;
@@ -418,7 +418,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
 #benefits a button {
   color: var(--color-text-black);
-  background: var(--gradient-button);
+  background: var(--gradient-green);
   padding: 1rem 2rem;
   border: none;
   border-radius: .7rem;
@@ -427,13 +427,12 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
   
   transition: all 200ms ease-in-out;
 
-  box-shadow: 0px 0px 15px 4px #004a7e;
+  box-shadow: 0px 0px 15px 4px #007e15;
 }
 
 #benefits a button:hover {
   cursor: pointer;
   filter: brightness(1.2);
-  box-shadow: 2px 2px 10px #071926;
 }
 
 #benefits .line {
@@ -543,7 +542,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
   border: none;
   border-radius: 1rem;
   font-size: var(--f16);
-
+  box-shadow: 0px 0px 15px 4px #007e15;
   transition: all 200ms ease-in-out;
 }
 
@@ -637,7 +636,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 #dificuldades .content .footer a button {
   font-size: var(--f18);
   color: var(--color-text-black);
-  background: var(--gradient-button);
+  background: var(--gradient-green);
   padding: 1rem 2rem;
   border: none;
   border-radius: .7rem;
@@ -645,13 +644,12 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
   transition: all 200ms ease-in-out;
 
-  box-shadow: 0px 0px 15px 4px #004a7e;
+  box-shadow: 0px 0px 15px 4px #007e15;
 }
 
 #dificuldades a button:hover {
   cursor: pointer;
   filter: brightness(1.2);
-  box-shadow: 2px 2px 10px #071926;
 }
 
 /*depoimentos =================== */
@@ -715,7 +713,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 #depoimentos a button {
   font-size: var(--f18);
   color: var(--color-text-black);
-  background: var(--gradient-button);
+  background: var(--gradient-green);
   padding: 1rem 2rem;
   border: none;
   border-radius: .7rem;
@@ -723,13 +721,12 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 
   transition: all 200ms ease-in-out;
 
-  box-shadow: 0px 0px 15px 4px #004a7e;
+  box-shadow: 0px 0px 15px 4px #007e15;
 }
 
 #depoimentos a button:hover {
   cursor: pointer;
   filter: brightness(1.2);
-  box-shadow: 2px 2px 10px #071926;
 }
 
 #depoimentos .eclipse img {
