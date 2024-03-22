@@ -528,6 +528,11 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
   font-weight: 500;
 }
 
+#plano .plano .price p.juros {
+  font-size: var(--f18);
+  text-align: end;
+}
+
 #plano .plano .price p span {
   color: var(--color-text-white);
   font-size: var(--f45);
