@@ -16,4 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-Feito com ♥ by Gustavo Gonzaga Dev. :wave: [Me acompanhe no instagram!](https://www.instagram.com/gonzxgx/)
+Feito com ♥ by Gustavo Gonzaga Dev. :wave: 
+
+<br>
+[Me acompanhe no instagram.](https://www.instagram.com/gonzxgx/)
+<br>
+[Acesse meu site.](https://gustavogonzaga.dev.br/)
+<br>
+[Veja meu portfólio.](https://portfolio.gustavogonzaga.dev.br/)
