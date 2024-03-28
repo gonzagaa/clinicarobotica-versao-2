@@ -18,9 +18,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Feito com ♥ by Gustavo Gonzaga Dev. :wave: 
 
-<br>
-[Me acompanhe no instagram.](https://www.instagram.com/gonzxgx/)
-<br>
-[Acesse meu site.](https://gustavogonzaga.dev.br/)
-<br>
-[Veja meu portfólio.](https://portfolio.gustavogonzaga.dev.br/)
+<br>;
+[Me acompanhe no instagram.](https://www.instagram.com/gonzxgx/);
+<br>;
+[Acesse meu site.](https://gustavogonzaga.dev.br/);
+<br>;
+[Veja meu portfólio.](https://portfolio.gustavogonzaga.dev.br/);
