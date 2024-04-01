@@ -340,7 +340,7 @@ background: linear-gradient(to right, #00d9ff 0%, #00ccff 100%);
 }
 
 #home .slide-text {
-  animation: slide 20s infinite linear;
+  animation: slide 40s infinite linear;
   display: flex;
 }
 
